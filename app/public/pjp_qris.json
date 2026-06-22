@@ -1,0 +1,785 @@
+[
+  {
+    "date_updated": "22 June 2026"
+  },
+  {
+    "no": 1,
+    "nns": 93600002,
+    "nama_penyelenggara": "PT Bank Rakyat Indonesia (Persero), Tbk",
+    "nama_produk": "QRIS BRI"
+  },
+  {
+    "no": 2,
+    "nns": 93600008,
+    "nama_penyelenggara": "PT Bank Mandiri (Persero) Tbk.",
+    "nama_produk": "Livin' by Mandiri"
+  },
+  {
+    "no": 3,
+    "nns": 93600009,
+    "nama_penyelenggara": "PT Bank Negara Indonesia (Persero), Tbk",
+    "nama_produk": " "
+  },
+  {
+    "no": 4,
+    "nns": 93600011,
+    "nama_penyelenggara": "PT Bank Danamon Indonesia, Tbk",
+    "nama_produk": "QR Danamon"
+  },
+  {
+    "no": 5,
+    "nns": 93600013,
+    "nama_penyelenggara": "PT Bank Permata, Tbk",
+    "nama_produk": "PermataMobile X (Issuer), PeArtaJasa"
+  },
+  {
+    "no": 6,
+    "nns": 93600014,
+    "nama_penyelenggara": "PT Bank Central Asia, Tbk",
+    "nama_produk": "SakuKu, BCA mobile"
+  },
+  {
+    "no": 7,
+    "nns": 93600016,
+    "nama_penyelenggara": "PT Bank Maybank Indonesia, Tbk",
+    "nama_produk": "Maybank QR Pay"
+  },
+  {
+    "no": 8,
+    "nns": 93600019,
+    "nama_penyelenggara": "PT Bank Panin",
+    "nama_produk": "Bank Panin"
+  },
+  {
+    "no": 9,
+    "nns": 93600022,
+    "nama_penyelenggara": "PT Bank CIMB Niaga, Tbk",
+    "nama_produk": "Octo Mobile"
+  },
+  {
+    "no": 10,
+    "nns": 93600023,
+    "nama_penyelenggara": "PT Bank UOB Indonesia",
+    "nama_produk": "TMRW"
+  },
+  {
+    "no": 11,
+    "nns": 93600028,
+    "nama_penyelenggara": "PT Bank OCBC NISP, Tbk",
+    "nama_produk": "ONe Mobile"
+  },
+  {
+    "no": 12,
+    "nns": 93600031,
+    "nama_penyelenggara": "Citibank N.A., Indonesia",
+    "nama_produk": "Citibank N.A., Indonesia"
+  },
+  {
+    "no": 13,
+    "nns": 93600036,
+    "nama_penyelenggara": "PT. Bank China Construction Bank Indo",
+    "nama_produk": "PT. Bank China ConstructionRintis"
+  },
+  {
+    "no": 14,
+    "nns": 93600037,
+    "nama_penyelenggara": "PT Bank Artha Graha Internasional",
+    "nama_produk": "AGI Mobile, AGI Pay"
+  },
+  {
+    "no": 15,
+    "nns": 93600046,
+    "nama_penyelenggara": "PT Bank DBS Indonesia",
+    "nama_produk": "DBS MAX QRIS"
+  },
+  {
+    "no": 16,
+    "nns": 93600054,
+    "nama_penyelenggara": "PT Bank Capital Indonesia, Tbk",
+    "nama_produk": "Bank Capital Indonesia"
+  },
+  {
+    "no": 17,
+    "nns": 93600076,
+    "nama_penyelenggara": "PT Bank Bumi Arta, Tbk",
+    "nama_produk": "QR BBA Mobile"
+  },
+  {
+    "no": 18,
+    "nns": 93600110,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Jawa Barat",
+    "nama_produk": "bjb DigiCash, bjb Mobile"
+  },
+  {
+    "no": 19,
+    "nns": 93600111,
+    "nama_penyelenggara": "PT Bank DKI",
+    "nama_produk": "JakOne Mobile"
+  },
+  {
+    "no": 20,
+    "nns": 93600112,
+    "nama_penyelenggara": "PT BPD Daerah Istimewa Yogyakarta",
+    "nama_produk": "BPDDIY QUAT (aplikasi merc"
+  },
+  {
+    "no": 21,
+    "nns": 93600113,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Jawa Tengah",
+    "nama_produk": "Bank Jateng"
+  },
+  {
+    "no": 22,
+    "nns": 93600114,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Provinsi",
+    "nama_produk": "Jatim Code (Fitur Bank Jatim"
+  },
+  {
+    "no": 23,
+    "nns": 93600115,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Jambi",
+    "nama_produk": "QRIS Bank Jambi Mobile"
+  },
+  {
+    "no": 24,
+    "nns": 93600116,
+    "nama_penyelenggara": "PT Bank Aceh Syariah",
+    "nama_produk": "Action (Aceh Transaksi Onlin Jalin"
+  },
+  {
+    "no": 25,
+    "nns": 93600118,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Sumatera Barat (Nagari)",
+    "nama_produk": "QRIS Nagari Mobile Banking"
+  },
+  {
+    "no": 26,
+    "nns": 93600119,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Riau Kep",
+    "nama_produk": "BPD Riau Kepri"
+  },
+  {
+    "no": 27,
+    "nns": 93600120,
+    "nama_penyelenggara": "PT BPD SUMSELBABEL",
+    "nama_produk": "BPD Sumselbabel"
+  },
+  {
+    "no": 28,
+    "nns": 93600121,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Lampung",
+    "nama_produk": "Bank Lampung"
+  },
+  {
+    "no": 29,
+    "nns": 93600122,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Kalimantan Selatan",
+    "nama_produk": "Bank Kalsel"
+  },
+  {
+    "no": 30,
+    "nns": 93600123,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Kalimant",
+    "nama_produk": "Bank Kalbar"
+  },
+  {
+    "no": 31,
+    "nns": 93600124,
+    "nama_penyelenggara": "PT. BPD Kaltimtara",
+    "nama_produk": "BPD Kaltimtara"
+  },
+  {
+    "no": 32,
+    "nns": 93600126,
+    "nama_penyelenggara": "PT BPD Sulawesi Selatan dan Sulawesi B",
+    "nama_produk": "Sulselbar Mobile"
+  },
+  {
+    "no": 33,
+    "nns": 93600127,
+    "nama_penyelenggara": "PT. Bank Sulawesi Utara dan Gorontalo",
+    "nama_produk": "Bank SulutGo"
+  },
+  {
+    "no": 34,
+    "nns": 93600128,
+    "nama_penyelenggara": "PT. Bank NTB Syariah",
+    "nama_produk": "Bank NTB Syariah"
+  },
+  {
+    "no": 35,
+    "nns": 93600129,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Bali",
+    "nama_produk": "Qris bpd Bali (fitur bpd bali mArtaJasa"
+  },
+  {
+    "no": 36,
+    "nns": 93600130,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Nusa Tenggara Timur",
+    "nama_produk": "NTT Pay"
+  },
+  {
+    "no": 37,
+    "nns": 93600131,
+    "nama_penyelenggara": "PT Bank PT BPD Maluku & Maluku Utara",
+    "nama_produk": " "
+  },
+  {
+    "no": 38,
+    "nns": 93600132,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Papua",
+    "nama_produk": "Bank Papua"
+  },
+  {
+    "no": 39,
+    "nns": 93600133,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Bengkulu",
+    "nama_produk": "PT BPD Bengkulu"
+  },
+  {
+    "no": 40,
+    "nns": 93600135,
+    "nama_penyelenggara": "PT Bank Pembangunan Daerah Sulawesi Tenggara",
+    "nama_produk": "Bank Sultra"
+  },
+  {
+    "no": 41,
+    "nns": 93600147,
+    "nama_penyelenggara": "PT Bank Muamalat Indonesia Tbk",
+    "nama_produk": "Muamalat QRIS"
+  },
+  {
+    "no": 42,
+    "nns": 93600151,
+    "nama_penyelenggara": "PT. Bank Mestika Dharma",
+    "nama_produk": "PT. Bank Mestika Dharma"
+  },
+  {
+    "no": 43,
+    "nns": 93600152,
+    "nama_penyelenggara": "PT Bank Shinhan Indonesia",
+    "nama_produk": "Bank Shinhan"
+  },
+  {
+    "no": 44,
+    "nns": 93600153,
+    "nama_penyelenggara": "PT Bank Sinarmas, Tbk",
+    "nama_produk": "SimobiPlus"
+  },
+  {
+    "no": 45,
+    "nns": 93600157,
+    "nama_penyelenggara": "PT. Bank Maspion Indonesia, Tbk",
+    "nama_produk": "Bank Maspion"
+  },
+  {
+    "no": 46,
+    "nns": 93600161,
+    "nama_penyelenggara": "PT Bank Ganesha Tbk",
+    "nama_produk": "Bank Ganesha"
+  },
+  {
+    "no": 47,
+    "nns": 93600167,
+    "nama_penyelenggara": "PT Bank QNB Indonesia, Tbk",
+    "nama_produk": "DooEt"
+  },
+  {
+    "no": 48,
+    "nns": 93600200,
+    "nama_penyelenggara": "PT Bank Tabungan Negara (Persero) Tbk",
+    "nama_produk": "BTN Mobile Banking"
+  },
+  {
+    "no": 49,
+    "nns": 93600213,
+    "nama_penyelenggara": "PT Bank Tabungan Pensiunan Nasional",
+    "nama_produk": "Jenius QR"
+  },
+  {
+    "no": 50,
+    "nns": 93600422,
+    "nama_penyelenggara": "PT. Bank BRISyariah, Tbk (sudah diganti",
+    "nama_produk": "BRISPay"
+  },
+  {
+    "no": 51,
+    "nns": 93600425,
+    "nama_penyelenggara": "PT Bank Jabar Banten Syariah",
+    "nama_produk": "Bank BJB Syariah"
+  },
+  {
+    "no": 52,
+    "nns": 93600425,
+    "nama_penyelenggara": "PT. Bank Jabar Banten Syariah",
+    "nama_produk": "Bank Jabar Banten Syariah"
+  },
+  {
+    "no": 53,
+    "nns": 93600426,
+    "nama_penyelenggara": "PT Bank Mega, Tbk",
+    "nama_produk": "M-SMILE"
+  },
+  {
+    "no": 54,
+    "nns": 93600441,
+    "nama_penyelenggara": "PT Bank KB Bukopin",
+    "nama_produk": "Bank KB Bukopin"
+  },
+  {
+    "no": 55,
+    "nns": 93600451,
+    "nama_penyelenggara": "PT Bank Syariah Indonesia",
+    "nama_produk": "Qris bpd Bali (fitur bpd bali mArtaJasa"
+  },
+  {
+    "no": 56,
+    "nns": 93600459,
+    "nama_penyelenggara": "PT Krom Bank Indonesia Tbk",
+    "nama_produk": "Krom Bank"
+  },
+  {
+    "no": 57,
+    "nns": 93600472,
+    "nama_penyelenggara": "PT. Bank Jasa Jakarta",
+    "nama_produk": "PT. Bank Jasa Jakarta"
+  },
+  {
+    "no": 58,
+    "nns": 93600484,
+    "nama_penyelenggara": "PT Bank KEB Hana Indonesia",
+    "nama_produk": "MyHana Mobile Banking"
+  },
+  {
+    "no": 59,
+    "nns": 93600485,
+    "nama_penyelenggara": "PT Bank MNC Internasional Tbk",
+    "nama_produk": "Motion Banking"
+  },
+  {
+    "no": 60,
+    "nns": 93600490,
+    "nama_penyelenggara": "PT Bank Neo Commerce, Tbk",
+    "nama_produk": "Bank Neo"
+  },
+  {
+    "no": 61,
+    "nns": 93600494,
+    "nama_penyelenggara": "PT Bank Raya Indonesia Tbk",
+    "nama_produk": "Bank Raya"
+  },
+  {
+    "no": 62,
+    "nns": 93600501,
+    "nama_penyelenggara": "PT Bank Digital BCA",
+    "nama_produk": "Bank Digital BCA"
+  },
+  {
+    "no": 63,
+    "nns": 93600503,
+    "nama_penyelenggara": "PT Bank Nationalnobu, Tbk",
+    "nama_produk": "Nobu ePay"
+  },
+  {
+    "no": 64,
+    "nns": 93600506,
+    "nama_penyelenggara": "PT BANK Mega Syariah",
+    "nama_produk": "Bank Mega Syariah"
+  },
+  {
+    "no": 65,
+    "nns": 93600513,
+    "nama_penyelenggara": "Bank Ina Perdana",
+    "nama_produk": "Bank Ina Perdana"
+  },
+  {
+    "no": 66,
+    "nns": 93600521,
+    "nama_penyelenggara": "PT Bank KB Bukopin Syariah",
+    "nama_produk": "KB Bank Syariah"
+  },
+  {
+    "no": 67,
+    "nns": 93600523,
+    "nama_penyelenggara": "PT Bank Sahabat Sampoerna",
+    "nama_produk": "BSS Mobile (QRIS)"
+  },
+  {
+    "no": 68,
+    "nns": 93600531,
+    "nama_penyelenggara": "PT. Bank Amar Indonesia, Tbk",
+    "nama_produk": "PT. Bank Amar Indonesia"
+  },
+  {
+    "no": 69,
+    "nns": 93600535,
+    "nama_penyelenggara": "PT Bank Seabank Indonesia",
+    "nama_produk": "Seabank"
+  },
+  {
+    "no": 70,
+    "nns": 93600536,
+    "nama_penyelenggara": "PT Bank BCA Syariah",
+    "nama_produk": "Bank BCA Syariah"
+  },
+  {
+    "no": 71,
+    "nns": 93600542,
+    "nama_penyelenggara": "PT Bank Jago, Tbk",
+    "nama_produk": "Bank Jago"
+  },
+  {
+    "no": 72,
+    "nns": 93600547,
+    "nama_penyelenggara": "PT Bank BTPN Syariah Tbk",
+    "nama_produk": "Bank BTPN Syariah"
+  },
+  {
+    "no": 73,
+    "nns": 93600548,
+    "nama_penyelenggara": "Bank Multiarta Sentosa",
+    "nama_produk": " "
+  },
+  {
+    "no": 74,
+    "nns": 93600553,
+    "nama_penyelenggara": "PT Bank Mayora",
+    "nama_produk": " "
+  },
+  {
+    "no": 75,
+    "nns": 93600555,
+    "nama_penyelenggara": "PT Bank Index Selindo",
+    "nama_produk": "Bank Index"
+  },
+  {
+    "no": 76,
+    "nns": 93600564,
+    "nama_penyelenggara": "PT Bank Mandiri Taspen",
+    "nama_produk": "Movin' by Mandiri Taspen"
+  },
+  {
+    "no": 77,
+    "nns": 93600566,
+    "nama_penyelenggara": "PT Bank Victoria International, Tbk",
+    "nama_produk": null
+  },
+  {
+    "no": 78,
+    "nns": 93600567,
+    "nama_penyelenggara": "PT. Allo Bank Indonesia, Tbk",
+    "nama_produk": " "
+  },
+  {
+    "no": 79,
+    "nns": 93600689,
+    "nama_penyelenggara": "PT BPRS Hijra Alami",
+    "nama_produk": "BPRS Hijra"
+  },
+  {
+    "no": 80,
+    "nns": 93600777,
+    "nama_penyelenggara": "PT Finnet Indonesia",
+    "nama_produk": "Finpay"
+  },
+  {
+    "no": 81,
+    "nns": 93600789,
+    "nama_penyelenggara": "PT Indosat, Tbk",
+    "nama_produk": "IMkas"
+  },
+  {
+    "no": 82,
+    "nns": 93600808,
+    "nama_penyelenggara": "PT Sprint Asia Technology",
+    "nama_produk": "Bayarind"
+  },
+  {
+    "no": 83,
+    "nns": 93600811,
+    "nama_penyelenggara": "PT Transaksi Artha Gemilang",
+    "nama_produk": "OttoCash"
+  },
+  {
+    "no": 84,
+    "nns": 93600812,
+    "nama_penyelenggara": "PT Solusi Pasti Indonesia",
+    "nama_produk": "Kaspro"
+  },
+  {
+    "no": 85,
+    "nns": 93600813,
+    "nama_penyelenggara": "PT GPay Digital Asia",
+    "nama_produk": "GAJA"
+  },
+  {
+    "no": 86,
+    "nns": 93600814,
+    "nama_penyelenggara": "PT. Netzme Kreasi Indonesia",
+    "nama_produk": "Netzme"
+  },
+  {
+    "no": 87,
+    "nns": 93600815,
+    "nama_penyelenggara": "PT Bimasakti Multi Sinergi",
+    "nama_produk": "SpeedCash"
+  },
+  {
+    "no": 88,
+    "nns": 93600816,
+    "nama_penyelenggara": "PT MNC Teknologi Nusantara",
+    "nama_produk": "MotionPay,SPIN"
+  },
+  {
+    "no": 89,
+    "nns": 93600817,
+    "nama_penyelenggara": "PT Yukk Kreasi Indonesia",
+    "nama_produk": "YUKKPay"
+  },
+  {
+    "no": 90,
+    "nns": 93600818,
+    "nama_penyelenggara": "PT Datacell Infomedia",
+    "nama_produk": "Paydia"
+  },
+  {
+    "no": 91,
+    "nns": 93600820,
+    "nama_penyelenggara": "PT Sarana Pactindo",
+    "nama_produk": "PAC Cash"
+  },
+  {
+    "no": 92,
+    "nns": 93600821,
+    "nama_penyelenggara": "PT. Midazpay Digital Indonesia",
+    "nama_produk": "Midazpay"
+  },
+  {
+    "no": 93,
+    "nns": 93600822,
+    "nama_penyelenggara": "PT Astra Digital Arta",
+    "nama_produk": "AstraPay"
+  },
+  {
+    "no": 94,
+    "nns": 93600823,
+    "nama_penyelenggara": "PT. Paprika Multi Media",
+    "nama_produk": "Paprika"
+  },
+  {
+    "no": 95,
+    "nns": 93600824,
+    "nama_penyelenggara": "PT Visi Jaya Indonesia",
+    "nama_produk": "Visi Jaya Indonesia"
+  },
+  {
+    "no": 96,
+    "nns": 93600825,
+    "nama_penyelenggara": "PT Max Interactives Technologies",
+    "nama_produk": "ZIPAY"
+  },
+  {
+    "no": 97,
+    "nns": 93600826,
+    "nama_penyelenggara": "PT Mareco Prima Mandiri",
+    "nama_produk": "Dipay"
+  },
+  {
+    "no": 98,
+    "nns": 93600827,
+    "nama_penyelenggara": "PT. Jatelindo Perkasa Abadi",
+    "nama_produk": "Fello"
+  },
+  {
+    "no": 99,
+    "nns": 93600828,
+    "nama_penyelenggara": "PT. Witami Tunai Mandiri",
+    "nama_produk": "TrueMoney"
+  },
+  {
+    "no": 100,
+    "nns": 93600829,
+    "nama_penyelenggara": "PT.  E2PAY GLOBAL UTAMA",
+    "nama_produk": "M-Bayar"
+  },
+  {
+    "no": 101,
+    "nns": 93600830,
+    "nama_penyelenggara": "PT. Akasanet Bumi Nusantara",
+    "nama_produk": "YODU"
+  },
+  {
+    "no": 102,
+    "nns": 93600831,
+    "nama_penyelenggara": "PT Inacash Lentera Teknologi",
+    "nama_produk": "Inacash"
+  },
+  {
+    "no": 103,
+    "nns": 93600832,
+    "nama_penyelenggara": "PT GDC Multi Sarana",
+    "nama_produk": "GDC Pay"
+  },
+  {
+    "no": 104,
+    "nns": 93600833,
+    "nama_penyelenggara": "PT. Prima Vista Solusi",
+    "nama_produk": "WIDE"
+  },
+  {
+    "no": 105,
+    "nns": 93600834,
+    "nama_penyelenggara": "PT Cakra Ultima Sejahtera",
+    "nama_produk": "DUWIT"
+  },
+  {
+    "no": 106,
+    "nns": 93600835,
+    "nama_penyelenggara": "PT Capital Net Indonesia",
+    "nama_produk": "Virgo"
+  },
+  {
+    "no": 107,
+    "nns": 93600836,
+    "nama_penyelenggara": "PT Nusapay Solusi Indonesia",
+    "nama_produk": "Nusapay"
+  },
+  {
+    "no": 108,
+    "nns": 93600838,
+    "nama_penyelenggara": "PT Duta Teknologi Kreatif",
+    "nama_produk": "Dutamoney"
+  },
+  {
+    "no": 109,
+    "nns": 93600839,
+    "nama_penyelenggara": "PT. CASHLEZ WORLDWIDE INDONESIA T",
+    "nama_produk": "Cashlez"
+  },
+  {
+    "no": 110,
+    "nns": 93600842,
+    "nama_penyelenggara": "PT Qoin Digital Indonesia",
+    "nama_produk": "Qoin"
+  },
+  {
+    "no": 111,
+    "nns": 93600844,
+    "nama_penyelenggara": "PT Indivara Sejahtera Sukses Makmur",
+    "nama_produk": "WOI"
+  },
+  {
+    "no": 112,
+    "nns": 93600898,
+    "nama_penyelenggara": "PT. Telkom Indonesia (Persero) Tbk",
+    "nama_produk": "t-money, QREN"
+  },
+  {
+    "no": 113,
+    "nns": 93600899,
+    "nama_penyelenggara": "PT Nusa Satu Inti Artha",
+    "nama_produk": "DokuPay"
+  },
+  {
+    "no": 114,
+    "nns": 93600911,
+    "nama_penyelenggara": "PT Fintek Karya Nusantara",
+    "nama_produk": "LinkAja"
+  },
+  {
+    "no": 115,
+    "nns": 93600912,
+    "nama_penyelenggara": "PT Visionet Internasional",
+    "nama_produk": "OVO"
+  },
+  {
+    "no": 116,
+    "nns": 93600914,
+    "nama_penyelenggara": "PT Dompet Anak Bangsa",
+    "nama_produk": "GoPay"
+  },
+  {
+    "no": 117,
+    "nns": 93600915,
+    "nama_penyelenggara": "PT Espay Debit Indonesia Koe",
+    "nama_produk": "DANA"
+  },
+  {
+    "no": 118,
+    "nns": 93600915,
+    "nama_penyelenggara": "PT. Espay Debit Indonesia Koe",
+    "nama_produk": "Dana"
+  },
+  {
+    "no": 119,
+    "nns": 93600916,
+    "nama_penyelenggara": "PT. Buana Media Teknologi",
+    "nama_produk": "GudangVoucher (GV e-moneArtaJasa"
+  },
+  {
+    "no": 120,
+    "nns": 93600917,
+    "nama_penyelenggara": "PT Veritra Sentosa Internasional",
+    "nama_produk": "Paytren"
+  },
+  {
+    "no": 121,
+    "nns": 93600918,
+    "nama_penyelenggara": "PT Airpay International Indonesia",
+    "nama_produk": "ShopeePay"
+  },
+  {
+    "no": 122,
+    "nns": 93600919,
+    "nama_penyelenggara": "PT Bluepay Digital International",
+    "nama_produk": "Bluepay Cash"
+  },
+  {
+    "no": 123,
+    "nns": 93600920,
+    "nama_penyelenggara": "PT Inti Dunia Sukses",
+    "nama_produk": "i.saku"
+  },
+  {
+    "no": 124,
+    "nns": 93600921,
+    "nama_penyelenggara": "PT. MITRA PEMBAYARAN ELEKTRONIK",
+    "nama_produk": "Saldomu"
+  },
+  {
+    "no": 125,
+    "nns": 93600922,
+    "nama_penyelenggara": "PT Ezeelink Indonesia",
+    "nama_produk": "Ezeelink"
+  },
+  {
+    "no": 126,
+    "nns": 93600947,
+    "nama_penyelenggara": "PT Bank Aladin Syariah",
+    "nama_produk": "Bank Aladin Syariah"
+  },
+  {
+    "no": 127,
+    "nns": 93600950,
+    "nama_penyelenggara": "PT Bank Commonwealth",
+    "nama_produk": " "
+  },
+  {
+    "no": 128,
+    "nns": 93600998,
+    "nama_penyelenggara": "PT Digital Solusi Pratama",
+    "nama_produk": "Digital Solusi Pratama"
+  },
+  {
+    "no": 129,
+    "nns": 93600999,
+    "nama_penyelenggara": "AHDI",
+    "nama_produk": " "
+  },
+  {
+    "no": 130,
+    "nns": 93608161,
+    "nama_penyelenggara": "PT Pos Indonesia",
+    "nama_produk": "Pospay"
+  }
+]
